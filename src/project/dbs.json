@@ -1,0 +1,80 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "abcd",
+      "body": "dummy body"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Jeanette",
+      "last_name": "Penddreth",
+      "email": "jpenddreth0@census.gov",
+      "gender": "Female"
+    },
+    {
+      "id": 2,
+      "first_name": "Giavani",
+      "last_name": "Frediani",
+      "email": "gfrediani1@senate.gov",
+      "gender": "Male"
+    },
+    {
+      "id": 3,
+      "first_name": "Noell",
+      "last_name": "Bea",
+      "email": "nbea2@imageshack.us",
+      "gender": "Female"
+    },
+    {
+      "id": 4,
+      "first_name": "Willard",
+      "last_name": "Valek",
+      "email": "wvalek3@vk.com",
+      "gender": "Male"
+    },
+    {
+      "id": "8",
+      "last_name": "pppp",
+      "email": "pppp@sd",
+      "gender": "Male"
+    },
+    {
+      "id": "9",
+      "last_name": "ppp",
+      "first_name": "oooo",
+      "email": "pp@oo",
+      "gender": "Male"
+    },
+    {
+      "id": "10",
+      "first_name": "llll",
+      "last_name": "tttt",
+      "email": "tt@tt",
+      "gender": "Female"
+    },
+    {
+      "id": "11",
+      "first_name": "llll",
+      "last_name": "tttt",
+      "email": "tt@tt",
+      "gender": "Male"
+    },
+    {
+      "id": "12",
+      "last_name": "jit",
+      "email": "jitt@g",
+      "gender": "Male",
+      "first_name": "ji"
+    },
+    {
+      "id": "13",
+      "first_name": "prashant",
+      "last_name": "potdar",
+      "email": "pr@123",
+      "gender": "Male"
+    }
+  ]
+}
